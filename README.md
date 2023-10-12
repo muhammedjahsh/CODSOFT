@@ -1,2 +1,2 @@
 # CODSOFT
-Data Science Intership
+Data Scientist Intership
